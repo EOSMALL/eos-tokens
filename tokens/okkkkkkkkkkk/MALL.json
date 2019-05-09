@@ -1,0 +1,15 @@
+{
+  "name": "MALL",
+  "symbol": "MALL",
+  "contract": "okkkkkkkkkkk",
+  "precision": 4,
+  "issuer": "okkkkkkkkkkk",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/okkkkkkkkkkk/MALL.png",
+  "desc": {
+    "en": "MALL (EOS mall platform integration) MALL is a platform integral based on EOS issuance, totaling 100 million, never additional issuance, holding MALL to enjoy the platform quarterly profit dividend.",
+    "zh": "MALL (EOS mall platform integration) MALL是一个基于eos发行的电商平台积分，总量1亿，永不增发，持有MALL享受平台季度利润分红。"
+  },
+  "website": "",
+  "whitepaper": "",
+  "links": {}
+}
